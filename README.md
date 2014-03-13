@@ -8,6 +8,8 @@ A .clang-format file as similar as you can get to Apples code style.
 2. Download this .clang-format file and put it in the root folder of your project.
 3. Go to Edit - Clang Format, choose File. It will choose the .clang-format file if its in the root folder of the project
 
+## Issues
+Please do a pull-request if you spot any attributes that should be altered to make the format more similar to Apples style. I've added a preview in this readme to make it easy just copying the text if you don't want the hassle of cloning repo or just for quick inspection. Please update the readme clangformat preview if you make a pull request for altering the format file.
 
 ##Preview
 
@@ -66,3 +68,5 @@ SpaceBeforeParens: ControlStatements
 
 
 ```
+## License
+MIT
