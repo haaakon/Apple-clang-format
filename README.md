@@ -1,11 +1,15 @@
 Apple-like Clang-format
 =======================
 
-Trying to make a .clang-format file as similar as you can get to Apples code style.
+A .clang-format file as similar as you can get to Apples code style.
 
 ##Installation
 1. Download the [ClangFormat-Xcode plugin](https://github.com/travisjeffery/ClangFormat-Xcode)
 2. Download this .clang-format file and put it in the root folder of your project.
+3. Go to Edit - Clang Format, choose File. It will choose the .clang-format file if its in the root folder of the project
+
+
+##Preview
 
 ```yaml
 ---
