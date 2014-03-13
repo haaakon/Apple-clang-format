@@ -1,4 +1,4 @@
-Apple-like Clang-format
+Apple .clang-format
 =======================
 
 A .clang-format file as similar as you can get to Apples code style.
