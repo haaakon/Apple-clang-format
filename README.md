@@ -31,11 +31,12 @@ BreakBeforeBinaryOperators: false
 BreakBeforeTernaryOperators: true
 BreakConstructorInitializersBeforeComma: false
 BinPackParameters: true
-ColumnLimit:     140
+ColumnLimit: 115
+IndentWidth: 4
 ConstructorInitializerAllOnOneLineOrOnePerLine: false
 DerivePointerBinding: false
 ExperimentalAutoDetectBinPacking: false
-IndentCaseLabels: false
+IndentCaseLabels: true
 MaxEmptyLinesToKeep: 1
 NamespaceIndentation: None
 ObjCSpaceAfterProperty: true
@@ -49,10 +50,9 @@ PenaltyReturnTypeOnItsOwnLine: 60
 PointerBindsToType: false
 SpacesBeforeTrailingComments: 1
 Cpp11BracedListStyle: true
-Standard:        Cpp11
-IndentWidth:     4
-TabWidth:        8
-UseTab:          Never
+Standard: Cpp11
+TabWidth: 8
+UseTab: Never
 BreakBeforeBraces: Stroustrup
 IndentFunctionDeclarationAfterType: true
 SpacesInParentheses: false
@@ -64,6 +64,7 @@ SpaceBeforeAssignmentOperators: true
 ContinuationIndentWidth: 4
 CommentPragmas:  '^ IWYU pragma:'
 SpaceBeforeParens: ControlStatements
+
 ...
 
 
