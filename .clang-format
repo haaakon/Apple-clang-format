@@ -15,12 +15,12 @@ BreakBeforeBinaryOperators: false
 BreakBeforeTernaryOperators: true
 BreakConstructorInitializersBeforeComma: false
 BinPackParameters: true
-ColumnLimit: 140
+ColumnLimit: 115
 IndentWidth: 4
 ConstructorInitializerAllOnOneLineOrOnePerLine: false
 DerivePointerBinding: false
 ExperimentalAutoDetectBinPacking: false
-IndentCaseLabels: false
+IndentCaseLabels: true
 MaxEmptyLinesToKeep: 1
 NamespaceIndentation: None
 ObjCSpaceAfterProperty: true
