@@ -31,7 +31,7 @@ BreakBeforeBinaryOperators: false
 BreakBeforeTernaryOperators: true
 BreakConstructorInitializersBeforeComma: false
 BinPackParameters: true
-ColumnLimit: 115
+ColumnLimit: 0
 IndentWidth: 4
 ConstructorInitializerAllOnOneLineOrOnePerLine: false
 DerivePointerBinding: false
