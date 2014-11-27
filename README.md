@@ -53,7 +53,7 @@ Cpp11BracedListStyle: true
 Standard: Cpp11
 TabWidth: 8
 UseTab: Never
-BreakBeforeBraces: Stroustrup
+BreakBeforeBraces: Attach
 IndentFunctionDeclarationAfterType: true
 SpacesInParentheses: false
 SpacesInAngles:  false
