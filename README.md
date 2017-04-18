@@ -3,7 +3,7 @@ Apple .clang-format
 
 A .clang-format file as similar as you can get to Apple's code style.
 
-##Installation
+## Installation
 1. Download the [ClangFormat-Xcode plugin](https://github.com/travisjeffery/ClangFormat-Xcode)
 2. Download this .clang-format file and put it in the root folder of your project.
 3. Go to **Edit** > **Clang Format**, choose **File**. It will choose the .clang-format file if it's in the root folder of the project.
